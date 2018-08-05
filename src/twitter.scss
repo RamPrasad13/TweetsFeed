@@ -1,0 +1,97 @@
+header {
+	background: #fff;
+	padding: 20px;
+	margin-bottom: 20px;
+    display: flex;
+}
+
+.flex-grow {
+	flex-grow: 1;
+}
+
+.profile-img {
+	width: 50px;
+    border-radius: 50%;
+    float: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.fa-logo {
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 25px;
+    margin-right: 50px;
+    border: 1px solid #999;    
+}
+
+.fa-twitter-logo {
+	background-color: #2786ca;
+	color: #fff;
+	border-color: #2786ca;
+}
+
+.fa-twitter-main {
+	color: #2786ca;
+	border-color: #fff;
+	padding-left: 0;
+	margin-right: 0;
+}
+
+.tweets {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.tweetContent {
+	background: white;
+	margin: 5px 0;
+	padding: 2%;
+}
+
+video {
+	display: block;
+	margin: 0 auto;
+}
+
+.img-tweet {
+	width: 100px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+}
+
+.table-cell {
+	display: table-cell;
+}
+
+.tweetTime {
+	float: right;
+}
+
+.retweet-content {
+	margin-top: 15px;
+}
+
+.retweet-sec {
+	margin-right: 10px;
+}
+
+.col-4{
+	display: inline-block;
+    width: calc(25% - 3px);
+    text-align: center;
+    background: #fff;
+    padding: 20px 0;
+    margin-bottom: 25px;
+}
+
+.col-selected {
+	box-shadow: inset 0 -5px 0 #2786ca;
+}
