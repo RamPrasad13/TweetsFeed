@@ -6,7 +6,7 @@ const people = [
     contentDesc: "Create the tweets dynamically using JSON (can be hard-coded in JavaScript, no need to implement a backend) and make use of any JavaScript framework of your choice (using jQuery with design patterns is equally good).",
     contentVideo: "",
     retweets: 20,
-    time: "1h"
+    time: "47m"
   },
   {
     name: "Sue",
@@ -15,7 +15,7 @@ const people = [
     contentDesc: "Create the tweets dynamically using JSON (can be hard-coded in JavaScript, no need to implement a backend) and make use of any JavaScript framework of your choice (using jQuery with design patterns is equally good).",
     contentVideo: "http://techslides.com/demos/sample-videos/small.mp4",
     retweets: '',
-    time: "47m"
+    time: "1h"
   },
   {
     name: "Bob",

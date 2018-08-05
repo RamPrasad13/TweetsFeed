@@ -42,6 +42,7 @@ header {
 	border-color: #fff;
 	padding-left: 0;
 	margin-right: 0;
+	font-size: 30px;
 }
 
 .tweets {
@@ -57,7 +58,8 @@ header {
 
 video {
 	display: block;
-	margin: 0 auto;
+    height: auto;
+    width: 100%;
 }
 
 .img-tweet {

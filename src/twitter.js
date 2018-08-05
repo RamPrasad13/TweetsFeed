@@ -42,7 +42,7 @@ function displayHeader() {
 				<i class="fa fa-hashtag fa-logo" aria-hidden="true"></i>
 			</div>
 			<div class="flex-grow">
-				<i class="fa fa-twitter fa-logo fa-twitter-main" aria-hidden="true"></i>
+				<i class="fa fa-twitter fa-twitter-main fa-logo" style="font-size: 30px" aria-hidden="true"></i>
 			</div>
 			<div class="flex-grow">
 				<img data-src="https://i.l.inmobicdn.net/website/website/6.0.1/img/testimonialp1.jpg" class="profile-img" alt="profile">
